@@ -15,7 +15,7 @@ I'm a recent computer science graduate from King's College London who is eager t
 |--|--|--|--|
 <img title="Scala" alt="Scala" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scala/scala.png"/>|<img title="sql" alt="sql" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="Kotlin" alt="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png">
 
-### Frameworks / Technolgies
+### Frameworks / Technologies
 <img title="Android" alt="Android" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />|<img alt="AWS" title="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png">|<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"/>
 |--|--|--|--|
 <img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />|<img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"/>|<img alt="Flutter" title="Flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png">|<img title="Tensorflow" alt="Tensorflow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">
